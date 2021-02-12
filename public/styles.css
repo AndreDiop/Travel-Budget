@@ -49,9 +49,7 @@ tr:nth-child(even) {
   width: 90%;
   margin: 0 auto;
 }
-.navbar {
-  margin-left: 700px;
-}
+
 .main {
   background-color: ghostwhite;
 }
