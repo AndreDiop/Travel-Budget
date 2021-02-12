@@ -21,7 +21,7 @@
 # About
 When users find themselves without an active internet connection, this progressive web application will allows users to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the changes they make to their balance will be be saved until the user has an internet connection upon which they will be saved to the database.
 ## Installation
-Users will navigate to the [github repository(https://github.com/AndreDiop/Travel-Budget)] and open the code in their editor of choice and run 'npm install' to get the node files required. Once the files have finished installing, users will be able to start the application on a localhost wit the command 'npm start'.
+Users will navigate to the [github repository](https://github.com/AndreDiop/Travel-Budget) and open the code in their editor of choice and run 'npm install' to get the node files required. Once the files have finished installing, users will be able to start the application on a localhost wit the command 'npm start'.
 
 
 ## Usage
