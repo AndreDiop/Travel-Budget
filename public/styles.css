@@ -52,3 +52,6 @@ tr:nth-child(even) {
 .navbar {
   margin-left: 700px;
 }
+.main {
+  background-color: ghostwhite;
+}
